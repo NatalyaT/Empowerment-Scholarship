@@ -1,0 +1,39 @@
+/*footer*/
+.footer {
+    margin-top: 400px;
+    color:black;
+
+}
+
+/*h2*/
+h1 {
+    color:gold;
+    text-align: center;
+}
+
+
+/* Set a style for all buttons */
+button {
+    background-color:#4CAF50;
+    color: gold;
+    padding: 5px 5px;
+    border: 1px solid #ccc;
+    cursor: pointer;
+    width: 10%;
+}
+
+/* Add a hover effect for buttons */
+button:hover {
+    opacity: 0.9;
+}
+
+/* Add padding to containers */
+.container {
+    padding: 16px;
+}
+
+body {
+    background-image:url("https://g.foolcdn.com/editorial/images/438584/college-students-using-laptop.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
