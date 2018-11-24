@@ -1,0 +1,18 @@
+
+#navbar {
+    background-color:#66CCCC !important;
+    text-transform: uppercase;
+    font-size: 5px !important;
+    height:71px;
+}
+
+#websitename {
+    margin-right: 430px;
+}
+.navbar-nav {
+    font-size: 18px;
+}
+
+a{
+    color:white;
+}

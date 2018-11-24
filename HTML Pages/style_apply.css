@@ -1,0 +1,115 @@
+
+body {
+    background-color: white;
+    font-family: 'Josefin Sans', sans-serif;
+
+}
+
+h1 {
+    color:#66CCCC;
+   /* font-family: 'Cinzel', serif;*/
+}
+
+h2{
+    color:#66CCCC;
+    /*font-family: 'Cinzel', serif;*/
+    margin-left: 20px;
+}
+
+i {
+    color:#66CCCC;
+    font-size: 60px;
+    margin-left: 100px;
+}
+
+ul { 
+    display:table; 
+    margin:0 auto;
+}
+
+
+#navbar {
+    background-color:#66CCCC !important;
+    text-transform: uppercase;
+    font-size: 5px !important;
+    height:71px;
+}
+
+#websitename {
+    margin-right: 430px;
+}
+.navbar-nav {
+    font-size: 18px;
+}
+
+
+
+/*SLIDESHOW*/
+#img3{
+      background-size: cover;
+
+}
+.header{
+    box-sizing: border-box;
+}
+
+.slideshow-container{
+    position: relative;
+}
+
+.header .myimages img{
+    display: block;
+    margin-left: 128px;
+}
+
+/*#impact {
+    margin-left:50px;
+}*/
+
+.reasons {
+    font-size: 14.5px;
+    color:#66CCCC;
+    /*text-transform: uppercase;*/
+
+    
+}
+
+.row {
+    margin: auto;
+    width: 90%;
+    border: 3px;
+    padding: 10px;
+}
+
+/*REQUIREMENTS*/
+.requirements{
+    font-size: 20px;
+    color:#66CCCC;
+    text-align:center;
+
+}
+
+/*ELIGIBILITY*/
+.eligibility{
+    font-size: 20px;
+    color:#36b5b5;
+    text-align: center;
+
+}
+
+/*FOOTER*/
+.footer {
+    background-color: #fff;
+    margin-top: 20px;
+}
+
+.footer .btn{
+    margin-top: 5px;
+}
+
+.footer i{
+    font-size: 20px;
+}
+
+
+

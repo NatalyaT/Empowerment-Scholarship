@@ -1,0 +1,57 @@
+body{
+    font-family: 'Josefin Sans', sans-serif;
+    color: #66CCCC;
+    background-color: white;
+}
+
+#navbar {
+    background-color:#66CCCC !important;
+    text-transform: uppercase;
+    font-size: 5px !important;
+    height:71px;
+
+}
+
+#websitename {
+    margin-right: 430px;
+}
+.navbar-nav {
+    font-size: 18px;
+}
+a{
+    color: white;
+}
+
+h3{
+    color: #66CCCC;
+}
+
+.container{padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+#footer{
+    padding: 30px;
+    color: white;
+    background-color: #66CCCC;
+}
+
+h4{
+    padding: 30px;
+}
+
+/*Carousel*/
+
+.carousel-inner img {
+      width: 100%;
+      height: 100%;
+}
+.carousel-caption{
+    background: rgba(0, 0, 0, 0.5); 
+}
+
+ /*Meetus*/ 
+ .img-rectangle {
+    width:100%;
+}
+

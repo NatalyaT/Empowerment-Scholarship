@@ -1,21 +1,34 @@
+/*NAVBAR*/
+
+
+#websitename {
+     animation-name:rollIn;
+    animation-duration: 4s;
+    animation-delay: -2s;
+    margin-top:0%;
+    font-size:15px;
+}
 /*footer*/
 .footer {
     margin-top: 400px;
-    color:blue;
+    color:MediumBlue;
 
 }
 
 /*h2*/
 h1 {
-    color:blue;
+    color:CadetBlue;
     text-align: center;
+     animation-name: bounce;
+    animation-duration: 4s;
+    animation-delay: -2s;
 }
 
 
 /* Set a style for all buttons */
 button {
     background-color:#4CAF50;
-    color: whitef;
+    color: white;
     padding: 5px 5px;
     border: 1px solid #ccc;
     cursor: pointer;
@@ -29,7 +42,10 @@ button:hover {
 
 /* Add padding to containers */
 .container {
-    padding: 16px;
+    padding: 50px;
+    margin-top:3%;
+    margin-left:0%;
+    font-size:22px;
 }
 
 body {
@@ -72,5 +88,3 @@ input:hover,
   background-color: #dd4b39;
   color: white;
 }
-
-
